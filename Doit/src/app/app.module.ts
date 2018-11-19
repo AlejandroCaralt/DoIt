@@ -9,14 +9,6 @@ import { StatusBar } from '@ionic-native/status-bar/ngx';
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 
-const config = {
-  apiKey: 'AIzaSyBcg8RQVReK4WC3FlDfHXowdo-k-1OHqKA',
-  authDomain: 'doit-e907f.firebaseapp.com',
-  databaseURL: 'https://doit-e907f.firebaseio.com',
-  projectId: 'doit-e907f',
-  storageBucket: 'doit-e907f.appspot.com',
-  messagingSenderId: '451975075475'
-};
 
 @NgModule({
   declarations: [AppComponent],
