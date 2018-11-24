@@ -1,0 +1,6 @@
+{
+  "appId": "com.AlejandroCaralt.DoiT",
+  "appName": "DoiT",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
