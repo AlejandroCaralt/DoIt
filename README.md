@@ -44,7 +44,7 @@ I build this entire application based on the firbaseAuth-Ionic guide made by [Ja
 
 
 ## Note Details
-![img](./images/noteDetails.PNG)
+![img](./images/noteDetail.PNG)
 > Remember, by clicking in the title of your duty list you'll be able to see the description of the note.
 
 
