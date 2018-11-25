@@ -21,3 +21,6 @@ I build this entire application based on the firbaseAuth-Ionic guide made by [Ja
 ![img](./images/signup.PNG)
 > The easiest way to signup, two inputs validating the data, min range of 6 characters for the password and redirected to the home page when you finish.
 
+## Reset your password
+![img](./images/resetPassword.PNG)
+> In the case you have forgeted your password and you cant log in becouse of that, you can easly put your email and we will send you a reset password link.
