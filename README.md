@@ -19,7 +19,7 @@ I builded this entire application based on the firbaseAuth-Ionic guide made by [
 ![img](./images/login.PNG)
 
 ## Signup
-#### The easiest way to signup, two inputs validating the data, min range of 6 characters for the password and  be redirected to the home page when you finish.
+#### The easiest way to signup, two inputs validating the data, minimun range of six characters for the password and  be redirected to the home page when you finish.
 ![img](./images/signup.PNG)
 
 ## Reset your Password
