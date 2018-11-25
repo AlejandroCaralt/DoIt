@@ -6,10 +6,21 @@
         <ion-icon slot="icon-only" name="person"></ion-icon>
       </ion-button>
     </ion-buttons>
+    <ion-title>DoiT</ion-title>
+    <ion-buttons slot="end">
+      <ion-button (click)="logOut()">
+        <ion-icon slot="icon-only" name="log-out"></ion-icon>
+      </ion-button>
+    </ion-buttons>
   </ion-toolbar>
 </ion-header>
 
 
 <ion-content padding>
-
+  <ion-button expand="block" color="primary" routerLink="/event-create">
+    Create a new Event
+  </ion-button>
+  <ion-button expand="block" color="primary" routerLink="/event-list">
+    See your events
+  </ion-button>
 </ion-content>

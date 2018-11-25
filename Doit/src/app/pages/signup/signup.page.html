@@ -36,7 +36,7 @@
       *ngIf="!signupForm.controls['password'].valid && signupForm.controls['password'].touched">
       <ion-label>Your password needs more than 6 characters.</ion-label>
     </ion-item>
-    <ion-button expand="block" (click)="signupUser(signupForm)" [disabled]="!signupForm.valid">
+    <ion-button color="light" expand="block" (click)="signupUser(signupForm)" [disabled]="!signupForm.valid">
       Create an Account
     </ion-button>
   </form>

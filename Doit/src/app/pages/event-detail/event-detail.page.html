@@ -1,9 +1,17 @@
 <ion-header>
   <ion-toolbar>
-    <ion-title>event-detail</ion-title>
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="/home"></ion-back-button>
+    </ion-buttons>
+    <ion-title>{{currentEvent?.title}}</ion-title>
   </ion-toolbar>
 </ion-header>
-
 <ion-content padding>
-
+  <ion-card>
+    <ion-card-content>
+      <p>
+        <strong>{{currentEvent?.text}}</strong>
+      </p>
+    </ion-card-content>
+  </ion-card>
 </ion-content>

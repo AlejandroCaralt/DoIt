@@ -9,3 +9,15 @@
 @import '~@ionic/angular/css/text-alignment.css';
 @import '~@ionic/angular/css/text-transformation.css';
 @import '~@ionic/angular/css/flex-utils.css';
+
+
+* {
+    font-family: 'Special Elite', cursive;
+}
+.title {
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 4em;
+}
+.native-textarea {
+    line-height: 1000px;
+}

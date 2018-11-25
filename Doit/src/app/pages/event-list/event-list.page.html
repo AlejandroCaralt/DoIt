@@ -1,9 +1,40 @@
 <ion-header>
   <ion-toolbar>
-    <ion-title>event-list</ion-title>
+    <ion-title class="title">DoiT</ion-title>
+    <ion-buttons slot="end">
+      <ion-button href="/profile">
+        <ion-label>{{ userProfile?.firstName }}</ion-label>
+        <ion-icon name="person"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+    <ion-buttons slot="end">
+      <ion-button (click)="logOut()">
+        <ion-icon slot="icon-only" name="log-out"></ion-icon>
+      </ion-button>
+    </ion-buttons>
   </ion-toolbar>
 </ion-header>
 
 <ion-content padding>
-
+  <ion-list>
+    <ion-list-header>
+      <ion-label>Your list: </ion-label>
+    </ion-list-header>
+    <ion-item *ngFor="let event of eventList">
+      <ion-label tappable routerLink="/event-detail/{{ event.id }}">
+        <h2>{{event?.title}}</h2>
+      </ion-label>
+      <ion-button fill="clear" (click)="deleteEvent(event.id)" icon-end>
+        <ion-icon name="trash" color="medium"></ion-icon>
+      </ion-button>
+    </ion-item>
+    <div *ngIf="msg" text-center>
+      <h1>Your list is empty!</h1>
+      <h5>Go and play some games <ion-icon name="logo-game-controller-a"></ion-icon>
+      </h5>
+    </div>
+  </ion-list>
+  <ion-button fill="clear" tappable routerLink="/event-create" icon-end>
+    <ion-icon name="add-circle" color="dark"></ion-icon>
+  </ion-button>
 </ion-content>

@@ -1,5 +1,8 @@
+
 form {
-    margin-bottom: 32px;
+    margin: 2em;
+    margin-bottom: 50%;
+    margin-top: 30%;
     button {
         margin-top: 20px !important;
     }
@@ -27,4 +30,8 @@ ion-input {
     .item-inner {
         border-bottom: 0 !important;
     }
+}
+ion-title {
+    background: url("../../../assets/images/bannerjpg.jpg");
+    font-size: 5em;
 }

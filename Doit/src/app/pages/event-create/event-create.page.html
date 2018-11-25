@@ -1,9 +1,27 @@
 <ion-header>
   <ion-toolbar>
-    <ion-title>event-create</ion-title>
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="/home"></ion-back-button>
+    </ion-buttons>
+    <ion-title>What are you going to do?</ion-title>
   </ion-toolbar>
 </ion-header>
-
 <ion-content padding>
-
+  <ion-label stacked>Title</ion-label>
+  <ion-item>
+    <h1>
+      <ion-input [(ngModel)]="eventTitle" type="text">
+      </ion-input>
+    </h1>
+  </ion-item>
+  <div id="textArea">
+    <ion-label stacked>
+      <h1>Just write</h1>
+    </ion-label>
+    <ion-textarea id="text" [(ngModel)]="eventText" type="text" placeholder="Today, I will do ...">
+    </ion-textarea>
+  </div>
+  <ion-button color="light" expand="block" (click)="createEvent(eventTitle, eventText)">
+    Save it
+  </ion-button>
 </ion-content>
