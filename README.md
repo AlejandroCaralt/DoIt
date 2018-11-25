@@ -46,4 +46,4 @@ I builded this entire application based on the firbaseAuth-Ionic guide made by [
 #### And the last thing, you have done everything until this, and now you have nothing to do... That's a lie, becouse you always have something to do, improving the things you are not good at, tasting the food you haven't tasted ever, traveling to places you would not imaging that they were over there. There is a lot of things to do in this life my friend, so don't forget to put them on your list :+1:.  
 ![img](./images/homeEmpty.PNG)
 
-####### Here you can dowload the app and use it by free. [DoiT](https://drive.google.com/file/d/14xzutRP_vB5L3al8QNFhXn03X_-NVzE_/view?usp=sharing)
+###### Here you can dowload the app and use it by free. [DoiT](https://drive.google.com/file/d/14xzutRP_vB5L3al8QNFhXn03X_-NVzE_/view?usp=sharing)
