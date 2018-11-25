@@ -43,5 +43,7 @@ I builded this entire application based on the firbaseAuth-Ionic guide made by [
 ![img](./images/noteDetail.PNG)
 
 ## The END
-#### And the last thing, you have done everything until this, and now you have nothing to do... That's a lie, becouse you always have something to do, improving the things you are not good at, tasting the food you haven't tasted ever, traveling to places you would not imaging that they were over there. There is a lot of things to do in this life my friend, so don't forget to put them on your list.  
+#### And the last thing, you have done everything until this, and now you have nothing to do... That's a lie, becouse you always have something to do, improving the things you are not good at, tasting the food you haven't tasted ever, traveling to places you would not imaging that they were over there. There is a lot of things to do in this life my friend, so don't forget to put them on your list :+1:.  
 ![img](./images/homeEmpty.PNG)
+
+
