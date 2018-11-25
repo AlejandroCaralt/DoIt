@@ -14,6 +14,6 @@ I build this entire application based on the firbaseAuth-Ionic guide made by [Ja
 
 
 ## Login
-![img](./images/login.PNG){:height="700px" width="400px"}
+![img](./images/login.PNG?v=4&s=200)
 > The login view is simple, the DoiT title, two inputs to log in and two buttons to reset your password or create a new account.
 
