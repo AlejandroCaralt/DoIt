@@ -24,7 +24,7 @@ I build this entire application based on the firbaseAuth-Ionic guide made by [Ja
 > The easiest way to signup, two inputs validating the data, min range of 6 characters for the password and redirected to the home page when you finish.
 
 
-## Reset your password
+## Reset your Password
 ![img](./images/resetPassword.PNG)
 > In the case you have forgeted your password and you cant log in becouse of that, you can easly put your email and we will send you a reset password link.
 
@@ -38,6 +38,16 @@ I build this entire application based on the firbaseAuth-Ionic guide made by [Ja
 ![img](./images/profile.PNG)
 > Sometimes we identify our self by a nickname, right? So you can change yours in the app profile by clicking the humanben icon in the homepage, you'll be redirected to the profile page, where you can change your nickname, email and even the password.
 
-## Profile
+## Create new Note
 ![img](./images/createNote.PNG)
 > So lets back to the main thing, you have to write your daily dutys to let the app work, if not, all this is uselles. Creating is simply, you just need a title to identify quickly the main thing and the description of that work. By clicking the plus symbol in the home page you'll be right there to create a new note. What are you wating for, you have a lot to do.
+
+
+## Note Details
+![img](./images/noteDetails.PNG)
+> Remember, by clicking in the title of your duty list you'll be able to see the description of the note.
+
+
+## The END
+![img](./images/noteDetails.PNG)
+> And the last thing, you have done everything until this, and now you have nothing to do. That's a lie, becouse you always have something to do, improving the things you are not good at, tasting the food you haven't ever, traveling to places you would not imaging that they were over there. There is a lot of things to do in this live, so don't forget to put them on your list. Bye.
