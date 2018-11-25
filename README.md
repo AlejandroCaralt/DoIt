@@ -10,7 +10,8 @@ I build this entire application based on the firbaseAuth-Ionic guide made by [Ja
 - Reset password
 - Home
 - Profile
-- Create new task
+- Create new note
+- Note details
 
 
 ## Login
@@ -29,5 +30,14 @@ I build this entire application based on the firbaseAuth-Ionic guide made by [Ja
 
 
 ## Home Page
-![img](./images/home.PNG)
+![img](./images/homePage.PNG)
 > And finally it's time for the main page, where all your troubles comes in a great looking way, you'll be able to organize your self by simplealy adding and removing your duty list. Check out the things you have to do and Just DoiT.
+
+
+## Profile
+![img](./images/profile.PNG)
+> Sometimes we identify our self by a nickname, right? So you can change yours in the app profile by clicking the humanben icon in the homepage, you'll be redirected to the profile page, where you can change your nickname, email and even the password.
+
+## Profile
+![img](./images/createNote.PNG)
+> So lets back to the main thing, you have to write your daily dutys to let the app work, if not, all this is uselles. Creating is simply, you just need a title to identify quickly the main thing and the description of that work. By clicking the plus symbol in the home page you'll be right there to create a new note. What are you wating for, you have a lot to do.
