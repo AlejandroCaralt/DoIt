@@ -45,7 +45,7 @@ firbaseAuth-Ionic guide made by [Javebratt](https://javebratt.com)
 ![img](./images/noteDetail.PNG)
 
 ## The END
-#### And the last thing, you have done everything until this, and now you have nothing to do... That's a lie, becouse you always have something to do, improving the things you are not good at, tasting the food you haven't tasted ever, traveling to places you would not imagine that they were over there. There is a lot of things to do in this life my friend, so don't forget to put them on your list :+1:.  
+#### The last but none the least, now that you have done it all, it's time to get out there and do all you set out to do. Greatness comes from within, a step at a time so get out there and Just DoiT! We will help you achieve all of your potential by keeping you organised. Go out and live a little. DoiT a friend for life. :+1:.  
 ![img](./images/homeEmpty.PNG)
 
 ###### [Here](https://drive.google.com/file/d/14xzutRP_vB5L3al8QNFhXn03X_-NVzE_/view?usp=sharing) you can dowload the app and use it for free.
