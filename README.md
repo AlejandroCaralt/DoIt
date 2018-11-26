@@ -40,7 +40,7 @@ firbaseAuth-Ionic guide made by [Javebratt](https://javebratt.com)
 ![img](./images/createNote.PNG)
 
 ## Note Details
-#### Remember, by clicking in the title of your duty list you'll be able to see the description of the note.
+#### Now, have you forgotten what the task was all about? Click on the tittle of the task to see your own notes.
 
 ![img](./images/noteDetail.PNG)
 
