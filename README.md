@@ -1,8 +1,8 @@
 # DoIt
-A way to organize your life.
-An application than will help you in your daily dutys, to keep you organized and do the things you never ended.
+A way to organize your life. An application that will help you in your daily duties, to keep you organized and to do the things you never finished. 
 
-I builded this entire application based on the firbaseAuth-Ionic guide made by [Javebratt](https://javebratt.com)
+I built this entire application based on the 
+firbaseAuth-Ionic guide made by [Javebratt](https://javebratt.com)
 
 ## App views:
 - Login
