@@ -27,8 +27,7 @@ firbaseAuth-Ionic guide made by [Javebratt](https://javebratt.com)
 ![img](./images/resetPassword.PNG)
 
 ## Home Page
-#### And, then comes the main page. The main page where all your tasks are listed in way as to please the eye. You will be able to organise yourselg simply by adding and removing tasks from your list. 
-Just DoiT, an app of action.
+#### And, then comes the main page. The main page where all your tasks are listed in way as to please the eye. You will be able to organise yourselg simply by adding and removing tasks from your list. Just DoiT, an app of action.
 ![img](./images/homePage.PNG)
 
 ## Profile
@@ -37,10 +36,12 @@ Just DoiT, an app of action.
 
 ## Create new Note
 #### Now getting back on the trail, making sure you don't loose the north. You will have to write your duties to let the app help you keep on track.Creating a task is fast, start by adding a tittle to identify the topic and add the description.Once you've made sure that the notes are plenty, move onto another by clicking on the ➕ on the home page. I mean, what are you waiting for? It can't get any easier than that.
+
 ![img](./images/createNote.PNG)
 
 ## Note Details
 #### Remember, by clicking in the title of your duty list you'll be able to see the description of the note.
+
 ![img](./images/noteDetail.PNG)
 
 ## The END
